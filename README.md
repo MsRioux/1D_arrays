@@ -5,7 +5,7 @@ Each class should be saved in its own file.  Rioux Style requirements ALWAYS app
 
 
 
-Assignment description:
+## Assignment description:
  Programming Practice 6.3 (do first)
 
 Revisit Programming Practice 5.2  Create a TaskArray Class.  In the Driver, implement a task array with at least five elements.  Then sort the elements using the algorithm of your choice.  
