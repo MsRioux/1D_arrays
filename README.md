@@ -14,5 +14,5 @@ Revisit Programming Practice 5.2  Create a TaskArray Class.  In the Driver, impl
  Search the array for one of your tasks twice, once before the sort and once after.  For both, output the element at which the task is found.
 
 
-This assignment was created for the 2018-2019 school year.
+This assignment was created for the 2017 - 2018 school year.
 
